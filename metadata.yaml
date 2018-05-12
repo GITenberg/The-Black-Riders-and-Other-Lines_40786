@@ -1,0 +1,34 @@
+_repo: The-Black-Riders-and-Other-Lines_40786
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40786-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Crane, Stephen
+    alias: Smith, Johnston
+    birthdate: 1871
+    deathdate: 1900
+    gutenberg_agent_id: '55'
+    url: http://www.gutenberg.org/2009/agents/55
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Crane
+description: Folder 1) 4 drawings for cover designs -- Folder 2) 10 proofs (on paper)
+  for the cover, with design as published, in a variety of shades of grey and tan,
+  also one in pale blue and some in olive green. Portrait of Crane -- Folder 3) Prospectus
+  (as published). Prospectus with "Ordered 500 / 50 in Mar '95" written at top in
+  green ink. Two proof copies of p. [1] of the prospectus. Six proof copies of p.
+  [2] of the prospectus. One proof copy of text leaf, beginning "IX I stood upon a
+  high place ..." One trial cover with title printed in white on black paper.
+gutenberg_issued: '2012-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40786'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 19th century'
+- !lcc 'PS'
+title: The Black Riders, and Other Lines
+url: http://www.gutenberg.org/ebooks/40786
